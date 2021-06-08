@@ -541,6 +541,10 @@ img {
   object-position: 90% 10%;
 }
 
+#experiences {
+  display: flex;
+}
+
 .top-section-experiences-page {
   display: grid;
   grid-template-rows: 1fr 1fr;
