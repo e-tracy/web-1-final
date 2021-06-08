@@ -383,17 +383,6 @@ img {
   color: #dfff00;
 }
 
-/*
-.diamond-decoration {
-  position: relative;
-  z-index: 1;
-  margin-right: -0.4em;
-  margin-top: 0.75em;
-  font-size: 2.75em;
-  color: #DFFF00;
-}
-*/
-
 .profile-img {
   object-position: 50% 50%;
 }
@@ -701,6 +690,10 @@ footer {
     font-size: 1.5em;
   }
 
+  h5 {
+    font-size: 1.5em;
+  }
+  
   p,
   li {
     font-size: 1.1em;
@@ -934,6 +927,10 @@ footer {
     font-size: 2.15em;
   }
   
+   h5 {
+    font-size: 1.7em;
+  }
+  
   p,
   li {
     font-size: 1.1em;
@@ -1121,6 +1118,10 @@ footer {
   
   h4 {
     font-size: 2.25em;
+  }
+  
+   h5 {
+    font-size: 1.9em;
   }
   
   p,
