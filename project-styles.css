@@ -274,7 +274,14 @@ footer {
   width: 600px;
   margin-top: 2em;
   margin-bottom: 6em;
-} /*Add image carousel for newsletter later when I have more time!!*/
+} 
+
+.flyer-projects-images {
+  width: 100%;
+  height: auto;
+  margin-top: 1.5em;
+  margin-bottom: 2.25em;
+}
 
 /*-------------------------  MEDIA QUERY 600   ----------------------------*/
 
