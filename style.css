@@ -406,28 +406,6 @@ img {
   margin-bottom: 2em;
 } */
 
-.resume-button {
-  background: #1b6d59;
-  width: 50%;
-   transition: all 200ms ease-in-out 100ms;
-}
-
-.resume-button:hover {
-  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-}
-
-.resume-button-text {
-  color: #ffffff;
-  font-size: 1.2em;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 0.25em;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
 
 .top-section-about-page {
   display: grid;
