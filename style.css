@@ -406,6 +406,10 @@ img {
   margin-bottom: 2em;
 } */
 
+.resume-button {
+  align-items: center;
+  width: minmax(min-content, 50%);
+}
 
 .top-section-about-page {
   display: grid;
