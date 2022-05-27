@@ -407,8 +407,19 @@ img {
 } */
 
 .resume-button {
+  width: minmax(50%, max-content);
+   display: flex;
+  justify-content: center;
   align-items: center;
-  width: minmax(min-content, 50%);
+  background-color: #9fe2bf;
+  padding: 1em 2em 1em 2em;
+  margin-bottom: 2em;
+  margin-right: 2em;
+  transition: all 200ms ease-in-out 100ms;
+}
+
+.resume-button:hover {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 .top-section-about-page {
