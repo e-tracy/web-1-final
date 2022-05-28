@@ -363,8 +363,8 @@ footer {
   }
 
   .work-project-image {
-    width: 80%; /*width of container*/
-    height: 100px; /*height of container*/
+    width: 25em; /*width of container*/
+    height: 6.25em; /*height of container*/
     object-fit: cover;
     overflow: hidden;
   }
@@ -449,8 +449,8 @@ footer {
   }
 
   .work-project-image {
-    width: 80%; 
-    height: 100px; 
+    width: 25em; 
+    height: 6.25em; 
     object-fit: cover;
     overflow: hidden;
   }
