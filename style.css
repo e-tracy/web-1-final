@@ -515,13 +515,13 @@ img {
   flex-direction: row;
   justify-content: flex-end;
   align-items: flex-end;
-  margin-top: 3em;
+  margin-top: 1.25em;
   margin-bottom: 0em;
 }
 
 .work-project-image {
-  width: 400px; /*width of container*/
-  height: 80px; /*height of container*/
+  width: 25em; /*width of container*/
+  height: 6em; /*height of container*/
   object-fit: cover;
   overflow: hidden;
 }
@@ -546,8 +546,24 @@ img {
   object-position: 80% 20%;
 }
 
+.pr-plan-img {
+  object-position: 40% 60%;
+}
+
+.social-media-posts-img {
+  object-position: 58% 42%;
+}
+
 .news-story-img {
-  object-position: 45% 55%;
+  object-position: 30% 70%;
+}
+
+.app-prototype-img {
+  object-position: 85% 15%;
+}
+
+.web-design-img {
+  object-position: 90% 10%;
 }
 
 .submit-flyer-img {
@@ -860,13 +876,13 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top: 2em;
+    margin-top: 1em;
     margin-bottom: 0em;
   }
 
   .work-project-image {
-    width: 100%; /*width of container*/
-    height: 80px; /*height of container*/
+    width: 15em; /*width of container*/
+    height: 5em; /*height of container*/
     object-fit: cover;
     overflow: hidden;
   }
@@ -1078,13 +1094,13 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top: 3em;
+    margin-top: 1.5em;
     margin-bottom: 0em;
   }
 
   .work-project-image {
-    width: 100%; /*width of container*/
-    height: 80px; /*height of container*/
+    width: 18em; /*width of container*/
+    height: 5em; /*height of container*/
     object-fit: cover;
     overflow: hidden;
   }
@@ -1238,14 +1254,14 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-top: 3em;
+    margin-top: 1.5em;
     margin-bottom: 0em;
   }
   
 
   .work-project-image {
-    width: 70%; /*width of container*/
-    height: 80px; /*height of container*/
+    width: 20em; /*width of container*/
+    height: 6em; /*height of container*/
     object-fit: cover;
     overflow: hidden;
   }
@@ -1261,5 +1277,3 @@ footer {
     width: 85%;
   }
 }
-
-
