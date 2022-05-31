@@ -283,6 +283,12 @@ footer {
   margin-bottom: 2.25em;
 }
 
+.outside-app-screenshot {
+  float: right;
+  width: 30%;
+  height: auto;
+}
+
 /*-------------------------  MEDIA QUERY 600   ----------------------------*/
 
 @media (max-width: 600px) {
@@ -372,6 +378,13 @@ footer {
   .work-project-button {
     width: 100%;
   }
+  
+  .outside-app-screenshot {
+  float: right;
+  width: 90%;
+  height: auto;
+}
+  
 }
 
 /*-------------------------  MEDIA QUERY 800   ----------------------------*/
@@ -458,4 +471,11 @@ footer {
   .work-project-button {
     width: 100%;
   }
+  
+  .outside-app-screenshot {
+  float: right;
+  width: 50%;
+  height: auto;
+}
+  
 }
