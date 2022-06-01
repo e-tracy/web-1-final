@@ -1280,7 +1280,12 @@ footer {
 
 /* -------------------------MEDIA QUERY 1050 ---------------------------- */
 @media (min-width: 1440px) {
- main {
+  .nav-contents {
+    margin-left: 12%;
+    margin-right: 12%;
+  }
+  
+  main {
    margin-left: 15%;
    margin-right: 15%;
  }
