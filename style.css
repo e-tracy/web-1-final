@@ -1281,11 +1281,11 @@ footer {
 /* -------------------------MEDIA QUERY 1050 ---------------------------- */
 @media (min-width: 1440px) {
  main {
-   margin-left: 10%;
-   margin-right: 10%;
+   margin-left: 15%;
+   margin-right: 15%;
  }
   
  .work-project-card {
-   margin-right: 4em; 
+   margin-right: 3em; 
  }
 }  
