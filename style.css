@@ -1278,8 +1278,8 @@ footer {
   }
 }
 
-/* -------------------------MEDIA QUERY 1050 ---------------------------- */
-@media (min-width: 1440px) {
+/* -------------------------MEDIA QUERY 1500 ---------------------------- */
+@media (min-width: 1500px) {
   .nav-contents {
     margin-left: 12%;
     margin-right: 12%;
