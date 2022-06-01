@@ -1277,3 +1277,11 @@ footer {
     width: 85%;
   }
 }
+
+/* -------------------------MEDIA QUERY 1050 ---------------------------- */
+@media (min-width: 1440px) {
+ main {
+   margin-left: 10%;
+   margin-right: 10%;
+ }
+}  
